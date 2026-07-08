@@ -166,6 +166,39 @@ https://archive.ics.uci.edu/ml/datasets/online+retail+ii
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+
+*<img width="488" height="280" alt="Executive_Overview" src="https://github.com/user-attachments/assets/3edfa20f-91dc-4b45-a930-c1c0e2a5a428" />
+*
+
+### Customer Analytics
+
+*<img width="488" height="275" alt="Customer_Analytics" src="https://github.com/user-attachments/assets/0eb9be4a-bbdc-43f3-81f5-f085f6dc4c11" />
+*
+
+### Product Analytics
+
+*<img width="488" height="277" alt="Product_Analytics" src="https://github.com/user-attachments/assets/9f3b82a1-3b3c-4229-89ae-20f2cec75e79" />
+*
+
+### Sales Analytics
+
+*<img width="488" height="277" alt="Sale_Analytics" src="https://github.com/user-attachments/assets/590ebf46-8485-4f67-80a4-680b27dca4ef" />
+*
+
+### Forecasting
+
+*<img width="488" height="277" alt="Forecasting" src="https://github.com/user-attachments/assets/0057ef40-925c-4087-931a-b7ccd76bf1e2" />
+*
+
+### Strategic Insights
+
+*<img width="489" height="278" alt="Strategic_Insights" src="https://github.com/user-attachments/assets/31d97f74-2988-467d-ac23-1f60a534c13b" />
+*
+
+---
 
 ## Project Highlights
 
@@ -184,7 +217,7 @@ https://archive.ics.uci.edu/ml/datasets/online+retail+ii
 
 GitHub: https://github.com/Aleeza4
 
-LinkedIn: *[(https://www.linkedin.com/in/aleeza-iftikhar-61a56127b/)]*
+LinkedIn: *https://www.linkedin.com/in/aleeza-iftikhar-61a56127b/*
 
 ---
 
