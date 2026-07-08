@@ -184,7 +184,7 @@ https://archive.ics.uci.edu/ml/datasets/online+retail+ii
 
 GitHub: https://github.com/Aleeza4
 
-LinkedIn: *[(Add your LinkedIn profile URL here)](https://www.linkedin.com/in/aleeza-iftikhar-61a56127b/)*
+LinkedIn: *[(https://www.linkedin.com/in/aleeza-iftikhar-61a56127b/)]*
 
 ---
 
